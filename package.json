@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@stomp/stompjs": "^5.4.4"
+  },
+  "dependencies": {
+    "typescript": "^4.0.2",
+    "ws": "^7.3.1"
+  }
+}

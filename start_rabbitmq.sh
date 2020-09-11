@@ -1,0 +1,1 @@
+docker run -d --hostname stomp-poc --name stomp-poc rabbitmq:management
